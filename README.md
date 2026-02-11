@@ -315,7 +315,7 @@ Both features were dropped. The automated threshold of 0.85 was chosen to be con
 ---
 
 Figure 6: Leakage Feature Identification (monthly_premium, annual_premium)
-[Insert Leakage Correlation Bar Chart Here]
+![Figure 6: Leakage Feature Identification](images/figure_6_leakage_correlation.png 'Leakage Feature Identification')
 
 ---
 
