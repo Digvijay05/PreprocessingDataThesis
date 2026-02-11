@@ -260,7 +260,7 @@ The unprocessed notebook did not fill this value prior to encoding. It relied on
 ---
 
 Figure 5: Missing Value Distribution Across Features
-![Figure 5: Missing Value Distribution](images/figure_5_missing_values.png)
+![Figure 5: Missing Value Distribution](images/figure_5_missing_values.png 'Missing Value Distribution')
 
 ---
 
