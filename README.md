@@ -377,7 +377,7 @@ None of these features were present in the unprocessed notebook.
 ---
 
 Figure 7: Feature Engineering Pipeline Diagram
-[Insert Feature Engineering Flow Diagram Here]
+![Figure 7: Feature Engineering Pipeline](images/figure_7_feature_engineering_pipeline.png 'Feature Engineering Pipeline')
 
 ---
 
